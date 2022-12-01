@@ -61,6 +61,7 @@ function validate(){
   }
   alert("Form Submitted Successfully!");
   window.location.reload()
+    window.location.href="https://parakkat.github.io/my-personal-/"
   return true;
 }
 
